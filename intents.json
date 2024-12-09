@@ -1,0 +1,784 @@
+[  
+    {
+        "tag": "hi",
+        "patterns": [
+            "Hi",
+            "Hi there",
+            "Hi!"
+        ],
+        "responses": [
+            "Hello! How can I assist you today?",
+            "Hi there! What can I do for you?"
+        ]
+    },
+    {
+        "tag": "hello",
+        "patterns": [
+            "Hello",
+            "Hello there",
+            "Hello!"
+        ],
+        "responses": [
+            "Hi! How can I help?",
+            "Hello! Feel free to ask me anything."
+        ]
+    },
+    {
+        "tag": "hey",
+        "patterns": [
+            "Hey",
+            "Hey there",
+            "Hey!"
+        ],
+        "responses": [
+            "Hey! What’s on your mind?",
+            "Hello! How can I support you today?"
+        ]
+    },
+    {
+        "tag": "howdy",
+        "patterns": [
+            "Howdy",
+            "Howdy there"
+        ],
+        "responses": [
+            "Howdy! How can I make your day better?",
+            "Hello there! What can I do for you?"
+        ]
+    },
+    {
+        "tag": "greetings",
+        "patterns": [
+            "Greetings",
+            "Greetings!"
+        ],
+        "responses": [
+            "Greetings! How can I assist you today?",
+            "Hello! Let me know how I can help you."
+        ]
+    }, 
+    {
+        "tag": "samsung_galaxy",
+        "patterns": [
+            "Whats special about the Samsung Galaxy S series?",
+            "How does the Samsung Galaxy Z Fold compare to other foldable phones?",
+            "Why are Samsung Galaxy phones popular?"
+        ],
+        "responses": [
+            "Samsung Galaxy phones offer top-tier displays, excellent cameras, and innovative designs, like foldables.",
+            "Samsung's AMOLED displays are among the best in the market, delivering vibrant colors and deep blacks."
+        ]
+    },
+    {
+        "tag": "samsung S24 Ultra",
+        "patterns": [
+            "Whats special about the Samsung Galaxy S24 series?",
+            "How does the Samsung Galaxy S series compare to other phones?",
+            "Why are Samsung Galaxy phones popular?"
+        ],
+        "responses": [
+            "Samsung Galaxy phones offer top-tier displays, excellent cameras, and innovative designs, like foldables.",
+            "Samsung's AMOLED displays are among the best in the market, delivering vibrant colors and deep blacks.",
+            "Samsung S24 Ultra is best phone in all categories in android market."
+        ]
+    },
+    {
+        "tag": "vivo_camera",
+        "patterns": [
+            "How good is the Vivo phone camera?",
+            "What makes Vivo phones popular for photography?",
+            "Are Vivo smartphones good for selfies?"
+        ],
+        "responses": [
+            "Vivo phones are renowned for their excellent camera performance, particularly for selfie enthusiasts.",
+            "Vivo's advanced AI features make its cameras perfect for stunning photography."
+        ]
+    },
+    {
+        "tag": "oppo_fast_charging",
+        "patterns": [
+            "Tell me about Oppo's fast charging technology.",
+            "How fast is Oppo's SuperVOOC charging?",
+            "Why do Oppo phones charge so quickly?"
+        ],
+        "responses": [
+            "Oppo's SuperVOOC charging technology can fully charge your phone in minutes, making it a leader in fast charging.",
+            "Oppo excels in battery innovations, providing industry-leading fast charging solutions."
+        ]
+    },
+    {
+        "tag": "realme_budget",
+        "patterns": [
+            "Are Realme phones good for budget-conscious buyers?",
+            "What makes Realme phones value for money?",
+            "Is the Realme Narzo series worth buying?"
+        ],
+        "responses": [
+            "Realme phones offer excellent performance and features at an affordable price.",
+            "Realme is known for delivering flagship-level features in the budget segment."
+        ]
+    },
+    {
+        "tag": "redmi_midrange",
+        "patterns": [
+            "Why are Redmi phones popular?",
+            "Tell me about the specifications of the Redmi Note series.",
+            "Are Redmi phones reliable?"
+        ],
+        "responses": [
+            "Redmi phones dominate the midrange market with their powerful specs and great battery life.",
+            "The Redmi Note series offers incredible value with impressive performance and cameras."
+        ]
+    },
+    {
+        "tag": "motorola_foldables",
+        "patterns": [
+            "What are the key features of Motorola foldable phones?",
+            "Why is the Motorola Razr so iconic?",
+            "How does Motorola's foldable technology work?"
+        ],
+        "responses": [
+            "Motorola foldable phones, like the Razr, combine nostalgic designs with modern technology.",
+            "The Motorola Razr delivers a unique foldable experience with cutting-edge innovation."
+        ]
+    },
+    {
+        "tag": "iqoo_performance",
+        "patterns": [
+            "Are iQOO phones good for gaming?",
+            "Tell me about iQOO's performance features.",
+            "Why are iQOO phones known for speed?"
+        ],
+        "responses": [
+            "iQOO phones are built for high-performance gaming with powerful processors and efficient cooling systems.",
+            "iQOO delivers lightning-fast performance and exceptional gaming experiences."
+        ]
+    },
+    {
+        "tag": "iphone_security",
+        "patterns": [
+            "What makes iPhone secure?",
+            "How does iPhone's Face ID work?",
+            "Is iOS safer than Android?"
+        ],
+        "responses": [
+            "iPhones are known for their robust security features, including Face ID and end-to-end encryption.",
+            "Apple prioritizes user privacy, offering industry-leading data protection in iOS."
+        ]
+    },
+    {
+        "tag": "best_smartphones",
+        "patterns": [
+            "What are the best smartphones available?",
+            "Which phone is considered the best in 2024?",
+            "Top recommendations for flagship smartphones"
+        ],
+        "responses": [
+            "Some of the best smartphones include the iPhone 15 Pro Max, Samsung Galaxy S23 Ultra, and Google Pixel 8 Pro.",
+            "Choosing the best smartphone depends on your needs—consider factors like camera quality, performance, and battery life."
+        ]
+    },
+    {
+        "tag": "best_time_to_buy",
+        "patterns": [
+            "When is the best time to buy a smartphone?",
+            "Should I wait for sales to buy a new phone?",
+            "Is it cheaper to buy phones during festive seasons?"
+        ],
+        "responses": [
+            "The best time to buy a smartphone is during major sales events like Amazon Prime Day, Flipkart Big Billion Days, or Black Friday.",
+            "Festive seasons often bring massive discounts and bundle offers on smartphones."
+        ]
+    },
+    {
+        "tag": "online_vs_offline_shopping",
+        "patterns": [
+            "Is it better to buy phones online or offline?",
+            "What are the pros and cons of buying a phone online?",
+            "Should I check phones in stores before buying online?"
+        ],
+        "responses": [
+            "Buying online often provides better discounts and exclusive deals, while offline shopping allows you to experience the phone before purchasing.",
+            "For expensive purchases, it’s a good idea to check the phone in a store and then look for online deals."
+        ]
+    },
+    {
+        "tag": "discounts_on_phones",
+        "patterns": [
+            "How can I get discounts on smartphones?",
+            "Are there any tips to buy phones at a lower price?",
+            "Where can I find the best deals on smartphones?"
+        ],
+        "responses": [
+            "You can find discounts on phones during flash sales, seasonal offers, or through exchange and credit card offers on platforms like Amazon and Flipkart.",
+            "Using no-cost EMI, cashback offers, or festive sales are great ways to save on smartphone purchases."
+        ]
+    },
+    {
+        "tag": "smartphone_battery_life",
+        "patterns": [
+            "How long does the battery last on the latest smartphones?",
+            "Which phone has the best battery life?",
+            "What is the average battery life of flagship smartphones?"
+        ],
+        "responses": [
+            "Flagship smartphones typically offer 10 to 15 hours of battery life with heavy usage.",
+            "Phones like the Asus ROG Phone and Samsung Galaxy S series are known for their long-lasting batteries."
+        ]
+    },
+    {
+        "tag": "foldable_screen",
+        "patterns": [
+            "What is a foldable screen on a smartphone?",
+            "Are foldable phones worth the price?",
+            "How does a foldable smartphone screen work?"
+        ],
+        "responses": [
+            "Foldable phones feature a flexible display that allows the phone to be unfolded into a larger screen.",
+            "Foldable screens are a great way to enjoy a larger display without compromising portability."
+        ]
+    },
+    {
+        "tag": "5g_support",
+        "patterns": [
+            "What is 5G support in smartphones?",
+            "Which smartphones are 5G compatible?",
+            "Why should I care about 5G in a phone?"
+        ],
+        "responses": [
+            "5G support enables faster internet speeds and lower latency, which improves streaming, gaming, and downloads.",
+            "Phones like the iPhone 14 and Samsung Galaxy S21 support 5G for enhanced connectivity."
+        ]
+    },
+    {
+        "tag": "smartphone_storage",
+        "patterns": [
+            "How much storage do I need on a smartphone?",
+            "What is the difference between 128GB and 256GB storage in a phone?",
+            "Should I get a phone with expandable storage?"
+        ],
+        "responses": [
+            "For most users, 128GB is sufficient, but gamers and content creators may prefer 256GB or more.",
+            "Expandable storage can be a great option for those who need extra space without paying for a higher storage model."
+        ]
+    },
+    {
+        "tag": "mobile_gaming",
+        "patterns": [
+            "Which phone is best for mobile gaming?",
+            "Are gaming smartphones worth it?",
+            "What are the top mobile games on smartphones?"
+        ],
+        "responses": [
+            "Phones like the ASUS ROG Phone and Lenovo Legion are designed specifically for mobile gaming, with high refresh rates and efficient cooling.",
+            "Popular mobile games include PUBG Mobile, Call of Duty Mobile, and Genshin Impact."
+        ]
+    },
+    {
+        "tag": "smartphone_screen_refresh_rate",
+        "patterns": [
+            "What is the screen refresh rate of smartphones?",
+            "How does a 120Hz display improve the smartphone experience?",
+            "What is a good refresh rate for a phone?"
+        ],
+        "responses": [
+            "A higher refresh rate results in smoother visuals, particularly for gaming and scrolling. 90Hz to 120Hz is ideal for most users.",
+            "Phones with a 120Hz refresh rate, like the OnePlus 9 Pro, offer an incredibly smooth user experience."
+        ]
+    },
+    {
+        "tag": "camera_software",
+        "patterns": [
+            "How important is camera software in smartphone photography?",
+            "What makes the iPhone camera software so special?",
+            "How does AI affect smartphone cameras?"
+        ],
+        "responses": [
+            "Camera software plays a crucial role in processing images, making them look sharp, vibrant, and clear.",
+            "iPhone cameras use advanced software to enhance image quality, focusing on color accuracy and lighting."
+        ]
+    },
+    {
+        "tag": "smartphone_charging_speeds",
+        "patterns": [
+            "What is the charging speed of the latest smartphones?",
+            "Why is fast charging important?",
+            "How fast can my smartphone charge?"
+        ],
+        "responses": [
+            "Smartphones like the OnePlus 9 Pro support Warp Charge, which can fully charge the phone in under 30 minutes.",
+            "Fast charging is essential for minimizing downtime and maximizing phone usage."
+        ]
+    },
+    {
+        "tag": "dual_sim_feature",
+        "patterns": [
+            "What is dual SIM support in smartphones?",
+            "Is dual SIM better for international travel?",
+            "Can I use two numbers on the same phone?"
+        ],
+        "responses": [
+            "Dual SIM allows you to use two phone numbers simultaneously, making it ideal for business and personal calls.",
+            "Phones with dual SIM support, like the Xiaomi Redmi Note series, offer great flexibility for international travel."
+        ]
+    },
+    {
+        "tag": "smartphone_audio_quality",
+        "patterns": [
+            "Which phones have the best audio quality?",
+            "Are stereo speakers important in a smartphone?",
+            "How good is the sound quality on flagship phones?"
+        ],
+        "responses": [
+            "Flagship phones like the iPhone 14 Pro and Samsung Galaxy S22 have stereo speakers that provide immersive sound.",
+            "For audiophiles, smartphones with Hi-Res Audio support offer exceptional sound quality."
+        ]
+    },
+    {
+        "tag": "smartphone_design",
+        "patterns": [
+            "What makes a phone design stand out?",
+            "Are glass-backed phones better for aesthetics?",
+            "How important is the design in choosing a smartphone?"
+        ],
+        "responses": [
+            "Phone design combines aesthetics and functionality, with many smartphones using premium materials like glass and metal for a premium feel.",
+            "A well-designed phone not only looks great but also provides a comfortable grip and durability."
+        ]
+    },
+    {
+        "tag": "smartphone_security_features",
+        "patterns": [
+            "How secure are smartphones in terms of data protection?",
+            "What security features should I look for in a phone?",
+            "How does Face Unlock work on smartphones?"
+        ],
+        "responses": [
+            "Smartphones feature advanced security features like Face Unlock, Fingerprint sensors, and end-to-end encryption.",
+            "Look for features like biometric authentication, secure storage, and software updates for the best protection."
+        ]
+    },
+    {
+        "tag": "smartphone_software_updates",
+        "patterns": [
+            "How often do smartphones receive software updates?",
+            "Which smartphone brand is best for software updates?",
+            "Are software updates important for smartphone longevity?"
+        ],
+        "responses": [
+            "Regular software updates improve performance, fix bugs, and ensure security. Brands like Google and Apple provide timely updates.",
+            "Software updates are crucial for keeping your device secure and ensuring compatibility with new apps."
+        ]
+    },
+    {
+        "tag": "smartphone_price_range",
+        "patterns": [
+            "What is the best phone under $400?",
+            "How much should I spend on a good smartphone?",
+            "Are budget phones good enough?"
+        ],
+        "responses": [
+            "Phones under $400 like the Realme 9 Pro or Moto G Power offer excellent value for money.",
+            "Budget phones can deliver impressive performance, though flagship models often offer extra features and power."
+        ]
+    },
+    {
+        "tag": "smartphone_compatibility",
+        "patterns": [
+            "Can I use my old phone's accessories with a new smartphone?",
+            "Are iPhones compatible with other Bluetooth devices?",
+            "Do Android phones work with iOS apps?"
+        ],
+        "responses": [
+            "Most Bluetooth accessories, like headphones and smartwatches, are cross-compatible with both iOS and Android devices.",
+            "Android phones support a wide range of apps, while iOS has exclusive apps available only in the App Store."
+        ]
+    },
+    {
+        "tag": "smartphone_water_resistance",
+        "patterns": [
+            "Which phones are water-resistant?",
+            "How does IP68 rating affect phone durability?",
+            "Should I worry about water damage in smartphones?"
+        ],
+        "responses": [
+            "Phones with an IP68 rating, like the Samsung Galaxy S series, can withstand water immersion up to 1.5 meters for 30 minutes.",
+            "Water-resistant phones offer additional protection against accidental spills and rain."
+        ]
+    },
+    {
+        "tag": "smartphone_utility_features",
+        "patterns": [
+            "What utility features should I look for in a phone?",
+            "Does a smartphone have any extra features beyond calling?",
+            "What makes a smartphone more functional?"
+        ],
+        "responses": [
+            "Smartphones now come with a range of utility features, like reverse charging, wireless charging, and customizable widgets.",
+            "Extra features like multitasking, custom ROMs, and app cloning improve the phone's functionality."
+        ]
+    },
+    {
+        "tag": "smartphone_eco_friendly",
+        "patterns": [
+            "Are smartphones eco-friendly?",
+            "What makes a phone sustainable?",
+            "Which smartphone brands focus on sustainability?"
+        ],
+        "responses": [
+            "Eco-friendly phones use recyclable materials and have energy-efficient components, like the Fairphone series.",
+            "Brands like Apple and Samsung are focusing on sustainability by reducing e-waste and using recycled materials in their phones."
+        ]
+    },
+    {
+        "tag": "smartphone_camera_features",
+        "patterns": [
+            "What camera features should I look for in a phone?",
+            "How does a wide-angle camera work on a smartphone?",
+            "What is the best camera setup for photography?"
+        ],
+        "responses": [
+            "Look for features like optical image stabilization, wide-angle lenses, and night mode for superior photography.",
+            "A multi-lens setup, like the triple cameras on the Samsung Galaxy S series, provides versatility for various photo styles."
+        ]
+    },
+    {
+        "tag": "smartphone_compatibility_with_apps",
+        "patterns": [
+            "Does my phone support all the apps I want to use?",
+            "How do I know if my phone is compatible with an app?",
+            "Are there apps only available for iPhones?"
+        ],
+        "responses": [
+            "You can check compatibility by visiting the app store or checking the app’s system requirements.",
+            "While most apps are available on both platforms, some apps are exclusive to iOS or Android."
+        ]
+    },
+    {
+        "tag": "smartphone_screen_protection",
+        "patterns": [
+            "Do I need a screen protector for my phone?",
+            "What is the best way to protect my phone's screen?",
+            "Is Gorilla Glass enough protection for a phone?"
+        ],
+        "responses": [
+            "A screen protector can prevent scratches and cracks, though Gorilla Glass is designed to be highly durable.",
+            "Investing in a good screen protector and case can save your phone from damage caused by accidental drops."
+        ]
+    },
+    {
+        "tag": "gaming_performance",
+        "patterns": [
+            "How is the gaming performance of the latest mobile phones?",
+            "Which mobile is best for gaming?",
+            "Can the iPhone 15 Pro handle heavy gaming?"
+        ],
+        "responses": [
+            "Mobile gaming performance depends on the processor, GPU, and cooling system. Phones with Snapdragon 8 Gen 3 or Apple A17 Pro offer excellent gaming performance.",
+            "The latest gaming smartphones are optimized with high refresh rate displays, powerful processors, and large batteries for longer gaming sessions."
+        ]
+    },
+    {
+        "tag": "processor_performance",
+        "patterns": [
+            "Which mobile processor is best for gaming?",
+            "How does the Snapdragon 8 Gen 3 compare to the Apple A17 Pro?",
+            "What makes the Apple A17 Pro so powerful?"
+        ],
+        "responses": [
+            "The Snapdragon 8 Gen 3 and Apple A17 Pro are both powerhouse chips offering excellent gaming performance with improved GPU performance and energy efficiency.",
+            "Apple’s A17 Pro is optimized for smooth gaming experiences, featuring a 6-core CPU and 16-core GPU, which ensures high frame rates."
+        ]
+    },
+    {
+        "tag": "battery_capacity",
+        "patterns": [
+            "What is the battery capacity of the iPhone 15 Pro?",
+            "Which phone has the longest battery life for gaming?",
+            "How does battery life impact mobile gaming performance?"
+        ],
+        "responses": [
+            "Phones with large batteries, like those with 5000mAh or more, can provide longer gaming sessions without needing frequent recharges.",
+            "Battery life is crucial for uninterrupted gaming, with devices like the Asus ROG Phone 7 offering up to 6000mAh for extended playtime."
+        ]
+    },
+    {
+        "tag": "storage_capacity",
+        "patterns": [
+            "How much storage does the iPhone 15 Pro have?",
+            "Which phone offers the most storage for gaming apps?",
+            "What is the ideal storage capacity for gaming phones?"
+        ],
+        "responses": [
+            "The iPhone 15 Pro comes in 128GB, 256GB, 512GB, and 1TB options, offering ample space for games and media.",
+            "Gaming phones with at least 256GB of internal storage are ideal for storing large game files, with some phones offering expandable storage as well."
+        ]
+    },
+    {
+        "tag": "display_quality",
+        "patterns": [
+            "Which phone has the best display for gaming?",
+            "How does the AMOLED display improve gaming performance?",
+            "What display size is ideal for gaming?"
+        ],
+        "responses": [
+            "AMOLED displays provide vibrant colors and deep blacks, making them ideal for gaming. Phones like the Samsung Galaxy S24 Ultra feature stunning 6.8-inch displays with a high refresh rate.",
+            "For gaming, a larger display like 6.7 to 7 inches, paired with a 120Hz or higher refresh rate, enhances the experience with smooth visuals."
+        ]
+    },
+    {
+        "tag": "price_segment",
+        "patterns": [
+            "Which mobile phones offer the best gaming performance under $500?",
+            "How much should I spend on a gaming phone?",
+            "Is the iPhone 15 Pro worth the high price for gaming?"
+        ],
+        "responses": [
+            "In the budget segment, phones like the Xiaomi Poco F5 Pro or Realme GT 2 Pro provide solid gaming performance under $500.",
+            "The iPhone 15 Pro, while on the expensive side, offers an exceptional gaming experience due to its powerful A17 Pro chip, making it worth the price for gamers who prioritize high-quality performance."
+        ]
+    },
+    {
+        "tag": "gameplay_smoothness",
+        "patterns": [
+            "How does the refresh rate impact gaming on phones?",
+            "Which phone offers the smoothest gaming experience?",
+            "How smooth is gaming on the Samsung Galaxy S24 Ultra?"
+        ],
+        "responses": [
+            "A high refresh rate, such as 120Hz or 144Hz, provides smoother visuals during gaming, reducing lag and improving responsiveness.",
+            "Phones with 120Hz or 144Hz displays, like the OnePlus 11 or the Samsung Galaxy S24 Ultra, offer an incredibly smooth gaming experience."
+        ]
+    },
+    {
+        "tag": "cooling_system",
+        "patterns": [
+            "Do gaming phones have better cooling systems?",
+            "How does a cooling system affect gaming performance?",
+            "Which phone has the best cooling system for gaming?"
+        ],
+        "responses": [
+            "Gaming phones like the ASUS ROG Phone 7 and Xiaomi Black Shark 5 feature active cooling systems, including liquid cooling, which help maintain optimal performance during extended gaming sessions.",
+            "A good cooling system prevents thermal throttling, ensuring that the phone maintains its peak performance without overheating during long gaming sessions."
+        ]
+    },
+    {
+        "tag": "gaming_comparisons",
+        "patterns": [
+            "How does the iPhone 15 Pro compare to the Samsung Galaxy S24 Ultra for gaming?",
+            "Is the OnePlus 11 better than the Xiaomi Mi 13 for gaming?",
+            "Which phone performs better in gaming, the iPhone 15 Pro or the Google Pixel 8 Pro?"
+        ],
+        "responses": [
+            "The iPhone 15 Pro, with its A17 Pro chip, outperforms the Samsung Galaxy S24 Ultra in CPU-heavy tasks, but the S24 Ultra’s 120Hz AMOLED display offers a more immersive visual experience.",
+            "The OnePlus 11 offers faster performance for the price with its Snapdragon 8 Gen 3, but the Xiaomi Mi 13 features a better display for an enhanced gaming experience."
+        ]
+    },
+    {
+        "tag": "5g_performance",
+        "patterns": [
+            "Does 5G improve gaming performance on mobile phones?",
+            "Which phones offer the best 5G gaming experience?",
+            "How does 5G impact latency in mobile gaming?"
+        ],
+        "responses": [
+            "5G provides faster download speeds and lower latency, which can enhance online gaming by reducing lag and providing smoother real-time interactions.",
+            "Phones like the iPhone 15 Pro and the Samsung Galaxy S24 Ultra support 5G, ensuring fast network speeds for an improved online gaming experience."
+        ]
+    },
+    {
+        "tag": "mobile_gaming_fps",
+        "patterns": [
+            "What is the ideal frame rate for mobile gaming?",
+            "How many frames per second can the iPhone 15 Pro handle?",
+            "Which phone offers the highest FPS for gaming?"
+        ],
+        "responses": [
+            "For smooth gaming, a frame rate of 60fps is considered the minimum. The iPhone 15 Pro can reach 120Hz refresh rates, offering fluid gameplay.",
+            "Phones like the ASUS ROG Phone 7 and the Lenovo Legion Phone 2 can deliver up to 144Hz refresh rates, providing incredibly smooth gaming at high frame rates."
+        ]
+    },
+    {
+        "tag": "gaming_battery_life",
+        "patterns": [
+            "How long does the battery last while gaming on the iPhone 15 Pro?",
+            "Which phone has the longest gaming battery life?",
+            "Does the battery life affect mobile gaming performance?"
+        ],
+        "responses": [
+            "The iPhone 15 Pro provides up to 15 hours of video playback, and gaming typically lasts a similar duration with moderate usage.",
+            "Phones like the ASUS ROG Phone 7, with its 6000mAh battery, offer longer gaming sessions, lasting up to 10 hours of continuous play."
+        ]
+    },
+    {
+        "tag": "gaming_software_optimization",
+        "patterns": [
+            "How does iOS optimize gaming performance?",
+            "Does Android or iOS provide better gaming optimization?",
+            "What gaming optimizations does Android offer?"
+        ],
+        "responses": [
+            "iOS is known for its excellent software optimization, ensuring that games run smoothly on iPhones with minimal performance issues.",
+            "Android gaming phones often include features like Game Mode or Game Turbo, which optimize resources for an enhanced gaming experience."
+        ]
+    },
+    {
+        "tag": "gaming_phones_under_200",
+        "patterns": [
+            "What is the best gaming phone under $200?",
+            "Which mobile phones under $200 can handle gaming well?",
+            "Can you get a good gaming phone under $200?"
+        ],
+        "responses": [
+            "Phones like the Xiaomi Poco X5 Pro and Realme Narzo 60 offer solid gaming performance under $200, with good displays and capable processors.",
+            "While not as powerful as premium phones, budget options like the Motorola Moto G Power and Samsung Galaxy A14 provide decent performance for light gaming."
+        ]
+    },
+    {
+        "tag": "gaming_sound_quality",
+        "patterns": [
+            "Which phone has the best sound quality for gaming?",
+            "Is stereo sound important for mobile gaming?",
+            "How does the sound quality impact mobile gaming?"
+        ],
+        "responses": [
+            "Stereo speakers, like those found in the iPhone 15 Pro and the Samsung Galaxy S24 Ultra, provide immersive audio that enhances the gaming experience.",
+            "Good sound quality is crucial for an immersive gaming experience, and phones with high-quality stereo speakers can make gameplay more enjoyable."
+        ]
+    },
+    {
+        "tag": "gaming_experience",
+        "patterns": [
+            "How is the overall gaming experience on the iPhone 15 Pro?",
+            "What is the gaming experience like on the Samsung Galaxy S24 Ultra?",
+            "How good is gaming on the Xiaomi Mi 13?"
+        ],
+        "responses": [
+            "The iPhone 15 Pro delivers an exceptional gaming experience with its powerful A17 Pro chip, vibrant display, and fluid frame rates.",
+            "The Samsung Galaxy S24 Ultra offers a great gaming experience with its large AMOLED display, smooth performance, and 120Hz refresh rate."
+        ]
+    },
+    {
+        "tag": "gaming_comparison_iphone_vs_samsung",
+        "patterns": [
+            "How does the iPhone 15 Pro compare to the Samsung Galaxy S24 Ultra for gaming?",
+            "Which is better for gaming, the iPhone 15 Pro or Samsung Galaxy S24 Ultra?",
+            "Is the iPhone 15 Pro or Samsung Galaxy S24 Ultra the better choice for gaming?"
+        ],
+        "responses": [
+            "The iPhone 15 Pro offers better optimization and a powerful A17 Pro chip, delivering excellent performance, but the Galaxy S24 Ultra's larger AMOLED display and 120Hz refresh rate provide a more immersive visual experience for gamers.",
+            "The iPhone 15 Pro excels in gaming optimization and CPU performance, while the Galaxy S24 Ultra shines with its beautiful display and larger battery for extended gaming sessions."
+        ]
+    },
+    {
+        "tag": "gaming_comparison_iphone_vs_pixel",
+        "patterns": [
+            "How does the iPhone 15 Pro compare to the Google Pixel 8 Pro for gaming?",
+            "Which phone is better for gaming, the iPhone 15 Pro or Google Pixel 8 Pro?",
+            "Is the iPhone 15 Pro better for gaming than the Pixel 8 Pro?"
+        ],
+        "responses": [
+            "The iPhone 15 Pro has superior gaming performance due to its A17 Pro chip, ensuring smoother gameplay, while the Pixel 8 Pro focuses more on camera performance, offering a decent experience but not quite at the same level as the iPhone for gaming.",
+            "The iPhone 15 Pro wins in gaming performance with its faster processor and optimized software, while the Pixel 8 Pro offers good graphics but lacks the high refresh rate and performance of Apple's latest chipset."
+        ]
+    },
+    {
+        "tag": "gaming_comparison_s22_vs_iphone_13",
+        "patterns": [
+            "How does the Samsung Galaxy S22 compare to the iPhone 13 for gaming?",
+            "Which is better for gaming, the Galaxy S22 or the iPhone 13?",
+            "Is gaming performance better on the Galaxy S22 or the iPhone 13?"
+        ],
+        "responses": [
+            "The iPhone 13 is more optimized for gaming with its A15 Bionic chip, providing a smoother experience, while the Galaxy S22 offers a larger AMOLED display and 120Hz refresh rate, which can enhance visuals during gameplay.",
+            "Both phones offer solid performance, but the iPhone 13 has a more powerful processor, while the Galaxy S22 offers a higher display refresh rate for better visuals in fast-paced games."
+        ]
+    },
+    {
+        "tag": "gaming_comparison_rog_phone_vs_black_shark",
+        "patterns": [
+            "How does the ASUS ROG Phone 7 compare to the Xiaomi Black Shark 5 for gaming?",
+            "Which gaming phone is better, the ASUS ROG Phone 7 or the Xiaomi Black Shark 5?",
+            "Is the ASUS ROG Phone 7 better for gaming than the Black Shark 5?"
+        ],
+        "responses": [
+            "Both the ASUS ROG Phone 7 and Xiaomi Black Shark 5 offer exceptional gaming performance, but the ROG Phone 7 has a more advanced cooling system and a higher refresh rate display, making it ideal for long gaming sessions.",
+            "The ASUS ROG Phone 7 edges out the Black Shark 5 with its superior cooling system and faster refresh rate, while the Black Shark 5 offers great value with similar gaming performance at a slightly lower price."
+        ]
+    },
+    {
+        "tag": "gaming_comparison_mi_13_vs_oneplus_11",
+        "patterns": [
+            "How does the Xiaomi Mi 13 compare to the OnePlus 11 for gaming?",
+            "Which is better for gaming, the Xiaomi Mi 13 or the OnePlus 11?",
+            "Is the gaming experience better on the Xiaomi Mi 13 or the OnePlus 11?"
+        ],
+        "responses": [
+            "The Xiaomi Mi 13 offers a vibrant AMOLED display and powerful Snapdragon 8 Gen 2, but the OnePlus 11 has a smoother experience with its 120Hz display and faster overall performance due to its software optimization.",
+            "Both phones perform excellently, but the OnePlus 11 delivers a slightly better gaming experience due to its more refined OxygenOS software and faster charging, while the Mi 13 excels in display quality."
+        ]
+    },
+    {
+        "tag": "gaming_comparison_s23_ultra_vs_iphone_14_pro_max",
+        "patterns": [
+            "How does the Samsung Galaxy S23 Ultra compare to the iPhone 14 Pro Max for gaming?",
+            "Which gaming phone is better, the Galaxy S23 Ultra or the iPhone 14 Pro Max?",
+            "Is the Galaxy S23 Ultra better than the iPhone 14 Pro Max for gaming?"
+        ],
+        "responses": [
+            "The iPhone 14 Pro Max has an edge in CPU performance, delivering superior gaming optimization with the A16 Bionic chip. However, the Galaxy S23 Ultra offers a more expansive 120Hz AMOLED display and superior gaming visuals.",
+            "While both phones provide top-tier gaming performance, the iPhone 14 Pro Max excels in raw power and smoother gaming experiences, while the Galaxy S23 Ultra offers a larger screen and better graphics with its enhanced GPU."
+        ]
+    },
+    {
+        "tag": "gaming_comparison_xiaomi_vs_realme",
+        "patterns": [
+            "How does the Xiaomi 13 Pro compare to the Realme GT 2 Pro for gaming?",
+            "Which is better for gaming, the Xiaomi 13 Pro or the Realme GT 2 Pro?",
+            "Is the Xiaomi 13 Pro better than the Realme GT 2 Pro for gaming?"
+        ],
+        "responses": [
+            "The Xiaomi 13 Pro offers excellent gaming performance with a high refresh rate display and Snapdragon 8 Gen 2 chip, but the Realme GT 2 Pro is more affordable while still delivering impressive gaming performance.",
+            "Both phones have solid performance, but the Xiaomi 13 Pro delivers slightly better visuals and smoother gameplay thanks to its higher-quality display, while the Realme GT 2 Pro provides a more budget-friendly option with similar performance."
+        ]
+    },
+    {
+        "tag": "gaming_comparison_vivo_vs_oppo",
+        "patterns": [
+            "How does the Vivo X90 Pro compare to the Oppo Find X5 Pro for gaming?",
+            "Which phone performs better in gaming, the Vivo X90 Pro or Oppo Find X5 Pro?",
+            "Is the Vivo X90 Pro better than the Oppo Find X5 Pro for gaming?"
+        ],
+        "responses": [
+            "The Vivo X90 Pro offers a better overall gaming experience with its high-refresh-rate display and superior processing power, while the Oppo Find X5 Pro delivers great performance but falls short in display quality compared to the Vivo.",
+            "The Vivo X90 Pro excels in gaming thanks to its 120Hz AMOLED display and faster processor, while the Oppo Find X5 Pro still provides strong performance with a larger battery and solid overall experience."
+        ]
+    },
+    {
+        "tag": "gaming_comparison_iphone_vs_redmagic",
+        "patterns": [
+            "How does the iPhone 15 Pro compare to the Nubia RedMagic 8 Pro for gaming?",
+            "Which is better for gaming, the iPhone 15 Pro or Nubia RedMagic 8 Pro?",
+            "Is the iPhone 15 Pro better for gaming than the Nubia RedMagic 8 Pro?"
+        ],
+        "responses": [
+            "The iPhone 15 Pro outperforms the Nubia RedMagic 8 Pro in terms of raw processing power and software optimization, but the RedMagic 8 Pro offers a larger screen, a faster refresh rate, and specialized cooling for intense gaming sessions.",
+            "While the iPhone 15 Pro excels with its efficient A17 Pro chip and iOS optimizations, the RedMagic 8 Pro targets hardcore gamers with its ultra-responsive display and unique features like active cooling and shoulder triggers."
+        ]
+    },
+    {
+        "tag": "gaming_comparison_asus_rog_vs_lenovo_legion",
+        "patterns": [
+            "How does the ASUS ROG Phone 7 compare to the Lenovo Legion Phone 2 Pro for gaming?",
+            "Which gaming phone is better, the ASUS ROG Phone 7 or Lenovo Legion Phone 2 Pro?",
+            "Is the ASUS ROG Phone 7 better for gaming than the Lenovo Legion Phone 2 Pro?"
+        ],
+        "responses": [
+            "Both phones offer top-notch gaming performance, but the ASUS ROG Phone 7 has a more refined design and better software optimization, while the Lenovo Legion Phone 2 Pro offers impressive cooling and a strong battery for prolonged gaming sessions.",
+            "The ASUS ROG Phone 7 is slightly ahead with its cooling system and higher refresh rates, making it better for long gaming marathons, while the Lenovo Legion Phone 2 Pro also delivers fantastic performance with extra features for gamers."
+        ]
+    }
+]
+
+
+
